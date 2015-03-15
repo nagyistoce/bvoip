@@ -1,0 +1,1 @@
+A Free SIP Client for iPhone that uses PJSUA Libraries. bVOIP is for programmers that either have their own VOIP server or want to use other provider. Great if you are a noob SIP programer. Most PJSUA code is in c for compatibility. This application will be added to Brian Green's bGPS app soon. Talk to contacts without using minutes nor semi walkie talkie.
